@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>CRMBOLT</groupId>
-  <artifactId>BOLTCRM</artifactId>
+  <groupId>Sonar</groupId>
+  <artifactId>sonartest</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>BOLTCRM Maven Webapp</name>  
@@ -10,7 +10,6 @@
   <properties>
        <maven.compiler.source>1.8</maven.compiler.source>
        <maven.compiler.target>1.8</maven.compiler.target>
-       <sonar.sources>pom.xml,src</sonar.sources>
     </properties>   
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -43,7 +42,7 @@
             
       </dependencies>  
       <build>
-      <finalName>BOLTCRM</finalName>
+      <finalName>SonarTest</finalName>
       <plugins>
 
             <plugin>

@@ -3,7 +3,7 @@ Built-By: dranilupadhyay
 Build-Jdk: 11.0.4
 Implementation-Title: BOLTCRM Maven Webapp
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: CRMBOLT
+Implementation-Vendor-Id: Sonar
 Implementation-Vendor: Pivotal Software, Inc.
 Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
